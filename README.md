@@ -5,4 +5,4 @@ Custom Object Recognition for Border Collies using YOLOv3
 
 * The Trained Model could not be uploaded to github due to its large size (234 MB)
 
-* [Project Demonstration]()
+* [Project Demonstration](https://www.youtube.com/watch?v=ZVwXdDhSGxk)
