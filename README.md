@@ -1,8 +1,8 @@
 # YOLOv3-Border-Collies-Custom-Object-Recignition
 Custom Object Recognition for Border Collies using YOLOv3
 
-* [Source Code]()
+* [Source Code](https://github.com/ChristeenTJose/YOLOv3-Border-Collies-Custom-Object-Recignition/blob/main/BorderCollie.py)
 
-* [Trained Model]()
+* The Trained Model could not be uploaded to github due to its large size (234 MB)
 
 * [Project Demonstration]()
